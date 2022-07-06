@@ -92,7 +92,7 @@ The user interface we are designing stems from the idea of live streaming first 
 ![image](https://user-images.githubusercontent.com/108793241/177521888-e0957216-c18d-4be5-b61e-6db22112ff7f.png)
 ![image](https://user-images.githubusercontent.com/108793241/177521945-4efa5692-169e-42d3-a988-7cddf7c6b225.png)
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ed3382c3-5094-49b3-b949-d173a5c3c798/Untitled.png)
-The creation of the data will be limited to a single studio (see [Stage Two: AI DEV](https://www.notion.so/Video-Recording-Stills-9c596036ecdd46af8b0d132063cf51a8)). I will be recording my actions in order to using the video as stock for creating AI algorithms and beginning the process of categorizing my behavior. 
+The creation of the data will be limited to a single studio. I will be recording my actions in order to using the video as stock for creating AI algorithms and beginning the process of categorizing my behavior. 
 
 new updates to this section will be posted it 
 
