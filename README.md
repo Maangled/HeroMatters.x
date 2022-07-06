@@ -52,37 +52,39 @@ Our Problem is Data, or rather, who holds the data. In the book Ready Player One
         - ~~Gerrymandering~~ Issue Based Voting
         - ~~Religious Abuse of Human Rights i.e. letting beliefs trump science~~ Educational Voting Systems. Vote while you learn!
  ## Scope
+ ![DAO Structure simple](https://user-images.githubusercontent.com/108793241/177518464-210d9a9d-8e9b-4a38-8462-52bab4d0269d.jpg)
  ### Stage One
 
-- [MichaelMosley.DAO](https://www.notion.so/MichaelMosley-dao-6e10b1f386dd4266ad8deba83dcf6c0a) - a single profile website for one person as a template
-- [Maangled.x](https://www.notion.so/Maangled-x-ceb088dfac1548a78862e09203f7c6db) - a website to select or make templates
+- Maangled.x - a custom content aggrigation browser
+- [heroprotagonist.dao](https://github.com/Maangled/HeroProtagonist.x) - a single profile website for one person as a template
+
 
 ### Stage Two
 
-- [Digiverse.dao](https://www.notion.so/DigiVerse-dao-8f332a555a34481696816d679d699094) - a Marketplace for open source AI programs (like apps for the profile)
-    - [Dalillama.dao](https://www.notion.so/DaliLlama-dao-f98f380d0f444a8db22491d10b90b591) - the first application that disseminates human activity into information categories (like skill trees, participation awards)  The Llama Token!
-    - Digman.dao - another application that tracks your daily habits
-    - Approacha.dao - a tool for converting data from centralized social media platforms
+- [Digiverse.dao](https://github.com/Maangled/Digiverse.DAO) - a Marketplace for open source AI programs (like apps for the profile)
+    - [Dalillama.dao](https://github.com/Maangled/Dalillama.dao) - the first application that disseminates human activity into information categories (like skill trees, participation awards)  The Llama Token!
+    - [Digperson.dao](https://github.com/Maangled/Digiperson.Dao) - another application that tracks your daily habits
+    - [Approacha.dao](https://github.com/Maangled/Approacha.dao) - a tool for converting data from centralized social media platforms
 
 ### Stage Three
 
-- nHomes.dao - An Experimental organization trying to create and infinite hotel with custom studios based on networks of home and work environments
-- Wanderin.dao -
-- Bookofthe.dao - A Web Based Memorial for people to create profiles for past loved ones
+- [nHomes.dao] - An Experimental organization trying to create and infinite hotel with custom studios based on networks of home and work environments
+- [Wanderin.dao](https://github.com/Maangled/Wanderin.dao) -
+- [Bookofthe.dao](https://github.com/Maangled/bookofthe.dao) - A Web Based Memorial for people to create profiles for past loved ones
         
-![DAO Structure simple](https://user-images.githubusercontent.com/108793241/177518464-210d9a9d-8e9b-4a38-8462-52bab4d0269d.jpg)
+
 
 ## User Interface
 The user interface is going to come in three sections
 
-###1. Content Aggregation Browser, a way to view anything on the internet in one place, at your digression 
+### 1. Content Aggregation Browser, a way to view anything on the internet in one place, at your digression 
 
 I think we need to approach this with a right-to-repair mentality. meaning the entire app is customizable. I want to be able to bring in feeds from any media source and have them all mangled together. Personal Content Aggregation Templates will probably be important too. 
 
 I don’t really remember what this stemmed from but it talks about participation awards which is a big part of stage 2, the Dali Llama DAO. plus i have my studio wired up with high def camera so we can also work on turning me into an item in the metaverse
 ![CCA](https://user-images.githubusercontent.com/108793241/177520519-203bc544-fc2f-486f-bbea-5c1f1ead7bf2.jpg)
 
-###2. Personal Profile with wallet integration that doubles as streaming platform (HeroProtagonist.dao)
+### 2. Personal Profile with wallet integration that doubles as streaming platform (HeroProtagonist.dao)
 This is going to be what constitutes MichaelMosley.dao i kind of want to make it my screen name so it’s a little harder to dox me but there's a voice in my head telling me that if I do it using my real name i’ll stream more like cool building things than just games. maybe it shows up as maangled when you are watching me play a videogame and Michael Mosley when you are watching build something using a raspberry pi.anyway…
 
 first frame is like a browser for streams, probably just the CCAB. second frame is like my live screen. it has the computer screen and my webcam highlighted to show how going from portrait to landscape goes from third person to first person. third frame shows what happens when you tap the screen, forth swiping up on the inventory. at the top the login would be for either the viewer or the owner. the owner would get an extended admin view. this would also allow for privileged views with specific wallets, live interactions, contracted interactions, direct peer to peer trading and investing.
@@ -98,7 +100,9 @@ Suggestion: connect fitness watches for the physical part
 ![image](https://user-images.githubusercontent.com/108793241/177522248-ad81d90c-9ca5-44d2-98b0-8e43ed5ca166.png)
 ![image](https://user-images.githubusercontent.com/108793241/177522538-9c92e174-a6d8-4b58-abdf-52183673bfff.png)
 
-4. Voting Interface (communi.dao)
+### 3. Voting Interface (communi.dao)
+![image](https://user-images.githubusercontent.com/108793241/177531512-81948d3c-e041-46e9-8471-8fc571ddffde.png)
+This isn’t really UI as much as it is a concept for UI. voting systems can be manipulated sometimes it’s for political means, but sometimes it’s just for the memes. This is a diagrammatic outline of a voting system for something like a digital constitution. The idea is it would be like a test, a no-pressure test just to learn about one company, country, or community. The diagram is more society oriented but it could be for just one organization, or even learning about one person. In the diagram it shows that every time you answer a question right from all 3 categories, you’ll be given 3 votes in the community. The three votes are split into a structural vote (the makeup of the company) the vision vote (where you want to see the company go) and the passion vote is towards a specific effort the company is making (a product maybe). the more you know about the community the more voted you get. if you were doing this on an idividual bases like my profile, maybe it would give you like comment priority tokens, ntfs of me and my accomplishments. send me comments and suggestions, vote on what project or game i play next. Eventually there will be a pokedex like device that you’re able to point at objects, see the profile of the maker, and add it to your digital collection.
 
 ## Mobile Studios
 There’s a growing demand for a sense of communal rebuilding of our infrastructure. With the growth of sustainable energy to meet our informational streaming demands, we are unlocking the power of a decentralized network, one were information from every machine is able to work together to create a harmonious environment to live in. Cars will know to avoid each other, your house may run the dishwasher late in the night to avoid peak hours of electrical demand. Many scientists argue that information is the root of our existence, the ultimate descriptor of interactions of all the matter in existence. Humans are the ultimate creators of information. Naturally, as if by instinct, we study each other and the environment around us. We seek information to optimize the planet we inhabit and yet it seems like there is only more to learn. However, crippling the ability for Americans to express their natural ability to learn is fear of living in the street. There is only like 3 things you absolutely need to survive: food, water, shelter. They’re called basic needs and all three of them need restructuring. Food is an obvious one because giant corporations gobbled up everything that is easy to cook and made it addictive and harmful. Our water pipes are degrading adding lead and other heavy metals into our homes. Homes are so expensive, that they are incredibly hard to purchase especially for someone with student loans and a low starting salary. All of these issues could be solved with good legislation, but many of them seem to be getting worse. All of these issues can be solved with decentralized grass roots efforts. Food is the easiest, grow your own and buy and trade at local markets. It’s actually dangerous for our planet when large areas lack biodiversity and eating all these foods made out of corn and palm oil are contributing to the deforestation of North and South America. Water is a townshed issue. Corporations like nestle are bottling our water and selling it back to us. The water wars started in 1900s when states said you couldn't have rain barrels. The housing market is going to be one of the most complex to tackle. It’s expensive to build homes sustainably and made more expensive through labor shortages and supply chain issues. Efforts to make investing in property easier for people are helpful and create a good way to make money, but it doesn’t chance the fact that renting is a scam are homes are out of reach for far too many people. One answer is middle housing. Construction costs on middle housing are lower due to the larger occupancy on a smaller plot of land, but most of them are rent controlled. We need to see an influx of regular people building and creating more middle housing in order to bring the housing market under control. Many people have realized that they are not on a path to afford a home and choose instead to live on the road and out of vans and trailers. Efforts are being made to take pressure off the system, and there is an opportunity connect all of these efforts through a single pipeline. This pipeline starts by helping people get out of bad situations such as homelessness and toxic environments and puts them on the road to becoming home owners. By starting homes from modular trailer kits, these homes will not only be more affordable, but they allow for the rapid introduction of new technology. 
