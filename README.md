@@ -81,6 +81,8 @@ I think we need to approach this with a right-to-repair mentality. meaning the e
 
 I don’t really remember what this stemmed from but it talks about participation awards which is a big part of stage 2, the Dali Llama DAO. plus i have my studio wired up with high def camera so we can also work on turning me into an item in the metaverse
 ![CCA](https://user-images.githubusercontent.com/108793241/177520519-203bc544-fc2f-486f-bbea-5c1f1ead7bf2.jpg)
+![image](https://user-images.githubusercontent.com/108793241/178856011-d70339fb-4980-40fd-8c9f-82d1e107cf8f.png)
+
 
 ### 2. Personal Profile with wallet integration that doubles as streaming platform (HeroProtagonist.dao)
 This is going to be what constitutes MichaelMosley.dao i kind of want to make it my screen name so it’s a little harder to dox me but there's a voice in my head telling me that if I do it using my real name i’ll stream more like cool building things than just games. maybe it shows up as maangled when you are watching me play a videogame and Michael Mosley when you are watching build something using a raspberry pi.anyway…
