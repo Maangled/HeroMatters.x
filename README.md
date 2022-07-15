@@ -93,6 +93,8 @@ The user interface we are designing stems from the idea of live streaming first 
 ![image](https://user-images.githubusercontent.com/108793241/177521945-4efa5692-169e-42d3-a988-7cddf7c6b225.png)
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ed3382c3-5094-49b3-b949-d173a5c3c798/Untitled.png)
 The creation of the data will be limited to a single studio. I will be recording my actions in order to using the video as stock for creating AI algorithms and beginning the process of categorizing my behavior. 
+![image](https://user-images.githubusercontent.com/108793241/179213199-d8d580fd-1f09-433f-aab7-9feb3c96f637.png)
+
 
 new updates to this section will be posted it 
 
