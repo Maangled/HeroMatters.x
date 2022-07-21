@@ -92,7 +92,7 @@ Information will be directly accesable from people's personal profile page, allo
 
 
 ### 2. Personal Profile with wallet integration that doubles as streaming platform (HeroProtagonist.dao)
-This is going to be what constitutes MichaelMosley.dao i kind of want to make it my screen name so it’s a little harder to dox me but there's a voice in my head telling me that if I do it using my real name i’ll stream more like cool building things than just games. maybe it shows up as maangled when you are watching me play a videogame and Michael Mosley when you are watching build something using a raspberry pi.anyway…
+The first profile will be a template for anyone to copy, HeroProtagonist.dao
 
 first frame is like a browser for streams, probably just the CCAB. second frame is like my live screen. it has the computer screen and my webcam highlighted to show how going from portrait to landscape goes from third person to first person. third frame shows what happens when you tap the screen, forth swiping up on the inventory. at the top the login would be for either the viewer or the owner. the owner would get an extended admin view. this would also allow for privileged views with specific wallets, live interactions, contracted interactions, direct peer to peer trading and investing.
 The user interface we are designing stems from the idea of live streaming first and foremost. Your stream is like a home base, it contains your entire profile including all data generated. This acts a a node for your data in order to encrypt it. Doing basic activities will populate your profile. Things like reading articles, streaming, playing videogames will level up your profile by giving you awards for each action and experience points. Profiles will also be private by default and each individual action foretold will be encrypted separately. This allow you complete control over what becomes public. AI algorithims made through Digiverse DAO will be able to automate the creation of content for your activity. This will include autocreation of short format videos (like tiktok and youtube) written publications, reading list
@@ -100,9 +100,9 @@ The user interface we are designing stems from the idea of live streaming first 
 Updated UI. Designed using Figma and Spline{
 ![Untitled@5-2048x933](https://user-images.githubusercontent.com/108793241/180026302-f68707c9-34ba-441a-8b01-cf1d8bfe1f61.jpg)
 }
+    Mobile View
 ![image](https://user-images.githubusercontent.com/108793241/177521945-4efa5692-169e-42d3-a988-7cddf7c6b225.png)
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ed3382c3-5094-49b3-b949-d173a5c3c798/Untitled.png)
-The creation of the data will be limited to a single studio. I will be recording my actions in order to using the video as stock for creating AI algorithms and beginning the process of categorizing my behavior. 
+The creation of the data will be limited to a single studio at first. We will be recording my actions in order to using the video as stock for creating AI algorithms and beginning the process of categorizing personal behavior. 
 ![image](https://user-images.githubusercontent.com/108793241/179213199-d8d580fd-1f09-433f-aab7-9feb3c96f637.png)
 
 
