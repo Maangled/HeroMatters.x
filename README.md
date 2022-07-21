@@ -88,7 +88,7 @@ The user interface is going to come in three sections
 I think we need to approach this with a right-to-repair mentality. meaning the entire app is customizable. I want to be able to bring in feeds from any media source and have them all mangled together. Personal Content Aggregation Templates will probably be important too. 
 
 I don’t really remember what this stemmed from but it talks about participation awards which is a big part of stage 2, the Dali Llama DAO. plus i have my studio wired up with high def camera so we can also work on turning me into an item in the metaverse
-![CCA](https://user-images.githubusercontent.com/108793241/177520519-203bc544-fc2f-486f-bbea-5c1f1ead7bf2.jpg)
+![image](https://user-images.githubusercontent.com/108793241/180239278-2d26909f-bc1a-40bf-9a7e-3f8d880dc469.png)
 ![image](https://user-images.githubusercontent.com/108793241/178856011-d70339fb-4980-40fd-8c9f-82d1e107cf8f.png)
 
 
