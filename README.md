@@ -85,9 +85,8 @@ The user interface is going to come in three sections
 
 ### 1. Content Aggregation Browser, a way to view anything on the internet in one place, at your digression 
 
-I think we need to approach this with a right-to-repair mentality. meaning the entire app is customizable. I want to be able to bring in feeds from any media source and have them all mangled together. Personal Content Aggregation Templates will probably be important too. 
-
-I don’t really remember what this stemmed from but it talks about participation awards which is a big part of stage 2, the Dali Llama DAO. plus i have my studio wired up with high def camera so we can also work on turning me into an item in the metaverse
+We are approaching the idea of social media with a right-to-repair metality. This means the entire app is customizable. You will be able to bring up feeds from from any media source and have them all mangled together. Personal Content Aggregation Templates will be important too. 
+Information will be directly accesable from people's personal profile page, allowing hosting of content to be centralized around the origional poster and be shared in a decentralized manner.
 ![image](https://user-images.githubusercontent.com/108793241/180239278-2d26909f-bc1a-40bf-9a7e-3f8d880dc469.png)
 ![image](https://user-images.githubusercontent.com/108793241/178856011-d70339fb-4980-40fd-8c9f-82d1e107cf8f.png)
 
