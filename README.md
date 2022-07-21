@@ -1,5 +1,5 @@
 # Maangled.x
-Content Aggregation Browser, a way to view anything on the internet in one place, at your digression
+Content Aggregation Browser, a way be anywhere on the internet, all in one place, at your digression.
 
 ## Abstract Summary
 Have you ever asked yourself what cryptocurrency would look like if it were mainstream? What if the biggest promises of crypto privacy and decentralization came true? It would not mean we abandon the government, it means we could enhance it with a new level of transparancy and efficiency. 
