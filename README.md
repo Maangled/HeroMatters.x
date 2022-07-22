@@ -94,12 +94,7 @@ The first profile will be a template for anyone to copy, HeroProtagonist.dao
 first frame is like a browser for streams, probably just the CCAB. second frame is like my live screen. it has the computer screen and my webcam highlighted to show how going from portrait to landscape goes from third person to first person. third frame shows what happens when you tap the screen, forth swiping up on the inventory. at the top the login would be for either the viewer or the owner. the owner would get an extended admin view. this would also allow for privileged views with specific wallets, live interactions, contracted interactions, direct peer to peer trading and investing.
 The user interface we are designing stems from the idea of live streaming first and foremost. Your stream is like a home base, it contains your entire profile including all data generated. This acts a a node for your data in order to encrypt it. Doing basic activities will populate your profile. Things like reading articles, streaming, playing videogames will level up your profile by giving you awards for each action and experience points. Profiles will also be private by default and each individual action foretold will be encrypted separately. This allow you complete control over what becomes public. AI algorithims made through Digiverse DAO will be able to automate the creation of content for your activity. This will include autocreation of short format videos (like tiktok and youtube) written publications, reading list
 ![image](https://user-images.githubusercontent.com/108793241/177521888-e0957216-c18d-4be5-b61e-6db22112ff7f.png)
-Updated UI. Designed using Figma and Spline{
-import { Application } from '@splinetool/runtime';
-
-const canvas = document.getElementById('canvas3d');
-const app = new Application(canvas);
-app.load('Loading...');
+<iframe src='https://my.spline.design/untitled-523d830cdaae1e2438b3102eb8f759e5/' frameborder='0' width='100%' height='100%'></iframe>
 
 ![Untitled@5-2048x933](https://user-images.githubusercontent.com/108793241/180026302-f68707c9-34ba-441a-8b01-cf1d8bfe1f61.jpg)
 }
