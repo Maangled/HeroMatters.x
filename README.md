@@ -95,6 +95,12 @@ first frame is like a browser for streams, probably just the CCAB. second frame 
 The user interface we are designing stems from the idea of live streaming first and foremost. Your stream is like a home base, it contains your entire profile including all data generated. This acts a a node for your data in order to encrypt it. Doing basic activities will populate your profile. Things like reading articles, streaming, playing videogames will level up your profile by giving you awards for each action and experience points. Profiles will also be private by default and each individual action foretold will be encrypted separately. This allow you complete control over what becomes public. AI algorithims made through Digiverse DAO will be able to automate the creation of content for your activity. This will include autocreation of short format videos (like tiktok and youtube) written publications, reading list
 ![image](https://user-images.githubusercontent.com/108793241/177521888-e0957216-c18d-4be5-b61e-6db22112ff7f.png)
 Updated UI. Designed using Figma and Spline{
+import { Application } from '@splinetool/runtime';
+
+const canvas = document.getElementById('canvas3d');
+const app = new Application(canvas);
+app.load('Loading...');
+
 ![Untitled@5-2048x933](https://user-images.githubusercontent.com/108793241/180026302-f68707c9-34ba-441a-8b01-cf1d8bfe1f61.jpg)
 }
     Mobile View
