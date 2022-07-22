@@ -99,8 +99,7 @@ Updated UI. Designed using Figma and Spline{
 }
     Mobile View
 ![image](https://user-images.githubusercontent.com/108793241/177521945-4efa5692-169e-42d3-a988-7cddf7c6b225.png)
-![image](https://user-images.githubusercontent.com/108793241/180447182-20429511-2202-45d4-9399-e7fada1bea04.png)
-
+![image](https://user-images.githubusercontent.com/108793241/180448205-7861d8c2-314d-4fb7-9b09-50f8f775909e.png)
 The creation of the data will be limited to a single studio at first. We will be recording my actions in order to using the video as stock for creating AI algorithms and beginning the process of categorizing personal behavior. 
 ![image](https://user-images.githubusercontent.com/108793241/179213199-d8d580fd-1f09-433f-aab7-9feb3c96f637.png)
 
