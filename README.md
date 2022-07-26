@@ -78,6 +78,7 @@ Our Problem is Data, or rather, who holds the data. In the book Ready Player One
 - [Wanderin.dao](https://github.com/Maangled/Wanderin.dao) -
 - [Bookofthe.dao](https://github.com/Maangled/bookofthe.dao) - A Web Based Memorial for people to create profiles for past loved ones
 
+
 ## Maangled Matters 
 Content Aggregation Browser, a way to view anything on the internet in one place, at your digression 
 
